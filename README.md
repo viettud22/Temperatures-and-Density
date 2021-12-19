@@ -7,7 +7,7 @@ The question I have is: is there any correlation between population density and 
 
 To compile: 
 
-python3 temperature_correlation.py stations.json.gz city_data.csv output.svg
+      python3 temperature_correlation.py stations.json.gz city_data.csv output.svg
 
 Output:
 
